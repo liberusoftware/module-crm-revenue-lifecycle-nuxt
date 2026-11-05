@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-revenue-lifecycle-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-revenue-lifecycle",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-revenue-lifecycle-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/revenue-lifecycle.md",
+  "presentationPlan": "projects/crm/nuxt/revenue-lifecycle.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
